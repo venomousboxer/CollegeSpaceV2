@@ -6,7 +6,7 @@ Android Platform target CollegeSpacev2 App.
   * **Android 4.0.0** (Ice Cream Sandwich) or **Later**
 2. For Developer
   * Android Studio 2.0
-  * API 16 (**21 Recommended**)
+  * API 16 (**25 Recommended**)
   * Google Play Services
 
 ### TODO
